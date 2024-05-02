@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Mehasan\DateTimeConverter\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DateTimeConverterCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-datetime-converter';
 
     public $description = 'My command';
 
